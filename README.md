@@ -4,7 +4,7 @@
 [gmail]: mailto:rohan.email.now@gmail.com
 
 <div align="center">
-  <h1>👋 Hi, I'm Rohan Kumar Mohanta</h1>
+  <h1>👋 Hi, I'm Rohan</h1>
   <h3>Full Stack Developer | Blockchain Enthusiast</h3>
   <p>Welcome to my GitHub profile! I'm passionate about web development and blockchain technologies.</p>
   
