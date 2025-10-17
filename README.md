@@ -1,5 +1,5 @@
-[linkedin]: https://www.linkedin.com/in/rohan-kumar-mohanta-3b8421324/
-[twitter]: https://x.com/Lviffyy
+[linkedin]: https://www.linkedin.com/in/rohan-mohanta
+[twitter]: https://x.com/rohan_builds
 [github]: https://www.github.com/lviffy
 [gmail]: mailto:rohan.email.now@gmail.com
 
