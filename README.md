@@ -36,10 +36,6 @@ const Rohan = {
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lviffy&theme=highcontrast&hide_border=true" width="60%"/>
-</div>
-
 ## My Coding Stats
 
 <!--START_SECTION:waka-->
