@@ -12,8 +12,8 @@
 ```javascript
 const Rohan = {
     Passion: ["Web3", "Freelance". "big time crypto"],
-    Lockedin
-    Cooking
+    Lockedin: [true],
+    Cooking: [hard]
 };
 ```
 <p align="left">
