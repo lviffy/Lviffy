@@ -11,7 +11,7 @@
 
 ```javascript
 const Rohan = {
-    Passion: ["Web3", "Freelance". "big time crypto"],
+    Passion: ["Web3", "Freelance". "SAAS"],
     Lockedin: [true],
     Cooking: [hard]
 };
@@ -35,100 +35,6 @@ const Rohan = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lviffy/Lviffy/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Lviffy/Lviffy/output/github-snake.svg" />
   </picture>
-</div>
-
-## My Coding Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2021%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 456.1 kB Used in GitHub's Storage 
- > 
-> 🏆 88 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 27 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                542 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-🌆 Daytime                768 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-🌃 Evening                889 commits         ████████░░░░░░░░░░░░░░░░░   33.05 % 
-🌙 Night                  491 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   415 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Tuesday                  335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Thursday                 523 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Friday                   384 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Saturday                 417 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   38.41 % 
-HTML                     1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-EONVerse                 2 hrs 39 mins       ███████████████░░░░░░░░░░   60.86 % 
-frontend                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-CTF LAbs                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-html                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-fabrica-studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-💻 Operating System: 
-Linux                    4 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               32 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/lviffy/lviffy/main/assets/bar_graph.png)
-
-
- Last Updated on 01/02/2026 19:18:30 UTC
-<!--END_SECTION:waka-->
-
-
-## GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lviffy&theme=darkhub&no-frame=true&no-bg=true&column=9" width="100%" alt="Trophies">
 </div>
 
 
